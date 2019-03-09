@@ -1,0 +1,30 @@
+----Senior----
+#0 StartX: 543
+#0 StartY: 168
+#0 ENDX: 656
+#0 ENDY: 216
+
+----Project----
+#0 StartX: 540
+#0 StartY: 262
+#0 ENDX: 675
+#0 ENDY: 310
+
+----HOCALARIM----
+#0 StartX: 396
+#0 StartY: 561
+#0 ENDX: 618
+#0 ENDY: 614
+
+----CANIM----
+#0 StartX: 108
+#0 StartY: 552
+#0 ENDX: 282
+#0 ENDY: 612
+
+----Design----
+#0 StartX: 716
+#0 StartY: 219
+#0 ENDX: 842
+#0 ENDY: 267
+
